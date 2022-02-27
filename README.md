@@ -1,2 +1,2 @@
 # Stroke-Prediction-Dataset
-Performing data visualization and find the best model from Stroke Prediction Kaggle dataset 
+[*here you can download the cheatsheet*](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)
